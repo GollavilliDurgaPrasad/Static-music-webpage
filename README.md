@@ -25,4 +25,4 @@ Flexbox and Grid for layout design
 Add a screenshot or demo GIF here
 
 🔗 Live Demo
-Click here to view the live demo
+https://musicsta.ccbp.tech/
